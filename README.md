@@ -1,11 +1,9 @@
-- 👋 Hi, I’m Ephraim Blessing Mwereza
-- Skills
-- Android & Desktop Java programming, Machine Learning, Database Programming 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- https://www.linkedin.com/in/ephraim-mwereza-9675981a4
--  blessingmwereza@gmail.com
--  catch me on twitter @BlessingMwereza
--  https://twitter.com/home
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=840&color=F8F8F8FF&background=000000FF&vCenter=true&width=1000&height=83&lines=Hello%2C+This+is+Ephraim+Blessing+Mwereza;I+am+a+passionate+Software+%26+Machine+Learning+Developer;Interested+in+gaining+new+knowledge+in+tech)](https://git.io/typing-svg)
+----------------------------------------------------------------------------------------------------------------------------
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Ephraim-blessing-mwereza)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ephraim-mwereza-9675981a4)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BlessingMwereza)]
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:blessingmwereza@gmail.com)
+
+![Metrics](https://metrics.lecoq.io/SoftCysec?template=classic&isocalendar=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Africa%2FNairobi)
