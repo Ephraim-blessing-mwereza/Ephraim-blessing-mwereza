@@ -17,8 +17,6 @@
 ----------------------------------------------------------------------------------------------------------------------------
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=Ephraim-blessing-mwereza&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ephraimblessing-mwereza&hide=dart,django,javascript,html,css,scss,pythonless&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ephraim-blessing-mwereza&hide=dart,django,javascript,html,css,scss,pythonless&theme=radical">
 </p>
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
