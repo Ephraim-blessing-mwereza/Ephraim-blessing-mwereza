@@ -6,3 +6,9 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BlessingMwereza)](https://twitter.com/BlessingMwereza)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:blessingmwereza@gmail.com)
 
+### 📈 GitHub Activity Graph:
+[![Ephraim-blessing-mwereza github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ephraim-blessing-mwereza&theme=github-compact)](https://github.com/Ephraim-blessing-mwereza/github-readme-activity-graph)
+
+### Github Streak
+----------------------------------------------------------------------------------------------------------------------------
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ephraim-blessing-mwereza&theme=radical&hide_border=true)](https://git.io/streak-stats)
